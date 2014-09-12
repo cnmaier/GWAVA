@@ -41,7 +41,7 @@
     <property name="project.version"            value="2.1g" />
     <property name="webstart.name"              value="gwava"/>
 
-    <property name="webstart.root"              value="http://75.124.74.46:5080/gwava http://75.124.74.46:5880/gwava http://amrl2lp3fwfd58:10080/ http://75.124.74.46 http://AMRL2LP3FWFD58:10080/gwava http://clinux22.pfizer.com http://amre1al336.pcld.pfizer.com:8080/pfizerWebstart http://amrndhl693.pfizer.com http://amrndhl1040.pfizer.com:10080/pfizerWebstart http://amrndhl1038.pfizer.com:8000/gwava http://amrndhl1040.pfizer.com:8000/gwava /"/>
+    <property name="webstart.root"              value="http://75.124.74.46:5080/gwava http://75.124.74.46:5880/gwava  /"/>
 
 
     <!-- project modules   -->
