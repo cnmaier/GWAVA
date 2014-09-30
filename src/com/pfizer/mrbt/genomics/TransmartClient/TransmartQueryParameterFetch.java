@@ -219,12 +219,13 @@ public class TransmartQueryParameterFetch {
     		return TransmartServicesParameters.SESSION_ID;
     	
     	
+    	/*
         String userName = new com.sun.security.auth.module.NTSystem().getName();
         if(userName != null && ! userName.isEmpty()) {
             return userName;
-        }
+        }*/
         
-        userName = System.getProperty("user.name");
+        String userName = System.getProperty("user.name");
         if(userName != null && ! userName.isEmpty()) {
             return userName;
         }
